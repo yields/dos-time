@@ -1,0 +1,14 @@
+{
+  "name": "dos-time",
+  "repo": "yields/dos-time",
+  "description": "transform date to DOS timestamp.",
+  "version": "0.0.1",
+  "keywords": ["timestamp", "dos"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  }
+}
